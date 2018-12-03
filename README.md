@@ -10,7 +10,7 @@ There are a lot of great repositories with links for learning about code, design
 
 A bookmarks links is provided.
 
-(Resources)[http://54.91.176.59/]
+[Resources](http://54.91.176.59/)
 
 ### todo
 - research library links
