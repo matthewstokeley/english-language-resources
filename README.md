@@ -1,7 +1,7 @@
 ### Resources
 a resource for the english language
 
-![Screenshot](https://raw.githubusercontent.com/matthewstokeley/english-language-resources/init/resources-screen.png)
+![Screenshot](https://github.com/matthewstokeley/english-language-resources/raw/master/resources-screen.png)
 
 ### English?
 There are a lot of great repositories with links for learning about code, design, artificial intelligence, etc, but I've not seen one for learning English so I've made one.
